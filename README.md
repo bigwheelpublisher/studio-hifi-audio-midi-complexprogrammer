@@ -1,1 +1,1 @@
-# studio-hifi-audio-midi-complexprogrammer
+# studio-hifi-audio-red+(midi)-complexprogrammer
